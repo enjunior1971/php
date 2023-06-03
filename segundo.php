@@ -1,7 +1,7 @@
 <?php
 
 
-echo "segunda tentativa";
+echo "resolvido";
 
 
 
